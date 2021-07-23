@@ -1,0 +1,17 @@
+#!/usr/bin/python
+
+download_video = "You can easily download a video using 1 or 3 methods:\n\n1. You can use a website called MP3 downloader - https://ytmp3.cc/youtube-to-mp3/\n\n2. You can use 'youtube-dl' by running the command ```pi -S youtube-dl``` you can then start it and insert the URL of the video you want to download.\n\n3. To download video from YouTube, you can use Xtreme Download manager by open it  and click on Tools + Browser monitoring and then find which Browser will you use to download on YouTube after that, select Install addon and you will go to browser then select add to [Browser Name], You need to allow it, after download addon finished just close browser and reopen it, Now you can download any video from YouTube.\n\nThank you for using KOOMPI!"
+download_discord = "To install Discord you: Open Konsole and then type: ```yes | pi -S discord``` and Enter.\n\nThank you for using KOOMPI"
+system_update = "To update your system you can type ```sudo pacman -Syu --noconfirm``` than wait until your computer has finished the update and restart."
+change_wall = "To change wallpaper, you need to right click on desktop screen and then click on Configure Desktop and Wallpaper ( Alr D+ Arl S) and then click on your favorite and you can Add Image you would like to add, after that click OK."
+zoom_install = "Hey there, it's super easy!!!\n\n```pi -S zoom```"
+zoom_fault_launch = "Firslty lets make sure zoom is updated ```sudo pamcna -Sy zoom --noconfirm```\n\nOnce you have run the command please try to connect through the link again.\n\nIf you're still having problems you can try to update your system ```sudo pacman -Syu``` and then restart your KOOMPI."
+location = "Here is our office location, bring your laptop for a checkup\n\nKOOMPI Service Center (Phnom Penh) (3rd of The Natte-ណាត់)\n\nTel: 077990887\n\nTelegram: @sreyneathchhon\n\nសង្កាត់ បឹងព្រលិត ខណ្ឌ ៧មករា ក្រុង ភ្នំពេញ\n\nhttps://goo.gl/maps/mycbXkor8a8UJdwR7\n\nKOOMPI Service Center (Siem Reap)\nTel: 086721179\nelegram: @chheangmaii\nមិថ្មី សង្កាត់ ស្វាយដង្គំ ខណ្ឌ សៀមរាប ក្រុង សៀមរាប\nttps://maps.app.goo.gl/wg5gkdVb6VkdVe6R8"
+power_off = "You can try to hold down the ```power``` button for 30 seconds. If the laptop still does not turn off please use the '/location' command."
+chinese_not_working = "Please visit this link https://bit.ly/2UvXsQH and follow the instructoins. If that still doesn't work please talk to a KOOMPI support memeber."
+online_sign_in = "Hello there, make sure you have correctly input your password and you have a valid internet connection. If either of these don't work, you can talk to a KOOMPI support member."
+devc = "Hey there you can follow the instructions belown\n\n1. Open you konsole\n\n2. Type ```pi -S codeblocks``` then press enter\n\n3. If it asks for password, input your password and press enter."
+pacman = "Hey there, KOOMPI OS is a Linux Arch based OS, which means we use ```sudo pacman``` because pacman is our built in package installer. APT is debain default package installer."
+photoshop = "You cannot download photo shop on KOOMPI OS, however we do have an opensource alternative called Gimp.\n\nHere is a Gimp tutorial https://bit.ly/3wYp8uB."
+ndi = "Hey there yes you can follow this video tutorial to set it up\n\nhttps://bit.ly/36WOGxr"
+update_zoom = "Hey there, you can use this command to udate your zoom\n\n ```pi -Sy zoom```"
